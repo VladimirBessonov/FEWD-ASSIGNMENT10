@@ -1,0 +1,21 @@
+.image-trans {
+    width: 130px;
+    transition: 2s;
+}
+
+#topbar {
+    text-align: center;
+    color: red;
+    background-color: #D1D1D1;
+}
+
+#topbar {
+    height: 35px;
+    overflow: hidden;
+    transition: 0.5s;
+
+  }
+
+#topbar:hover {
+    height: 70px;
+}
